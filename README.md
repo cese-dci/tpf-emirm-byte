@@ -1,9 +1,9 @@
 ## Trabajo práctico final de la asignatura DCI ##
 Este repositorio contiene el trabajo práctico final para la asignatura de Diseño de Circuitos Impresos de la carrera de posgrado de FIUBA.
 
-* Autor: XXXXCOMPLETARXXXX
-* Título corto del trabajo:  XXXXCOMPLETARXXXX
-* Descripción:  XXXXCOMPLETARXXXX
+* Autor: Emiliano Eduardo Rodriguez
+* Título corto del trabajo:  USB To TTL Adaptaer Isolated
+* Descripción: El circuito consiste en la realizaciòn de un puente USB a TTL con la salida TTL aislada para poder conectar placas bajo prueba que tienen fuentes de alimentaciòn no aislada.
 
 
 ## Licencia de este trabajo ##
