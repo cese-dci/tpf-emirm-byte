@@ -1,0 +1,15 @@
+"Id";"Identificador";"Paquete";"Cantidad";"Identificación";"Suministrador y ref";
+1;"R2,R1,R5,R6";"R_0805_2012Metric";4;"1K";;;
+2;"U1";"SOIC-16_3.9x9.9mm_P1.27mm";1;"CH340G";;;
+3;"R7,R4";"R_0805_2012Metric";2;"1K8";;;
+4;"R8,R3";"R_0805_2012Metric";2;"330K";;;
+5;"Q1,Q2";"SOT-23";2;"BC817";;;
+6;"U3,U2";"DIP-4_W7.62mm_SMDSocket_SmallPads";2;"PC817";;;
+7;"C2,C1";"C_0805_2012Metric";2;"22pF";;;
+8;"D1";"LED_0805_2012Metric";1;"LED GREEN";;;
+9;"C3";"C_0805_2012Metric";1;"10uF";;;
+10;"D2";"LED_0805_2012Metric";1;"LED RED";;;
+11;"J2";"PinHeader_1x04_P2.54mm_Vertical";1;"Conn_01x04";;;
+12;"C4,C5";"C_0805_2012Metric";2;"0.1uF";;;
+13;"J1";"USB_B_Lumberg_2411_02_Horizontal";1;"USB_B";;;
+14;"Y1";"Crystal_HC49-4H_Vertical";1;"12 MHz";;;
